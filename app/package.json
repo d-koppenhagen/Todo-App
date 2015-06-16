@@ -1,0 +1,22 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Doerki/Todo-App.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Danny Koppenhagen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doerki/Todo-App/issues"
+  },
+  "homepage": "https://github.com/Doerki/Todo-App#readme"
+}
